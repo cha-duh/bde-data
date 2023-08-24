@@ -1,0 +1,9 @@
+division,position,name,relative_score,total_score,hole_1,hole_2,hole_3,hole_4,hole_5,hole_6,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12,hole_13,hole_14,hole_15,hole_16,hole_17,hole_18,hole_19,hole_20,hole_21,hole_22,hole_23,hole_24,course,ctp,lp,attendance
+LONG,1,"Joe Bos",-3,69,3,4,4,2,2,3,2,3,3,2,3,2,2,3,3,4,3,2,3,3,3,4,3,3,spva_l,0,0,0
+LONG,2,"Joshua Owens",3,75,3,3,4,3,3,2,2,3,5,2,3,4,3,4,4,2,3,3,3,3,3,3,3,4,spva_l,0,0,0
+LONG,1,"Kyle P-H",7,79,3,3,4,3,4,4,3,3,3,3,3,2,5,3,4,2,3,3,4,4,4,3,2,4,spva_l,0,0,1
+LONG,2,"Kat Owens",14,86,3,4,3,3,3,3,4,3,4,5,4,3,4,4,5,3,3,3,3,3,3,4,4,5,spva_l,1,1,1
+LONG,3,"Kevin Richmond",9,81,4,4,4,4,2,3,5,3,4,3,5,2,3,5,4,2,2,3,3,3,3,3,2,5,spva_l,1,0,1
+LONG,4,"Isaac Richmond",19,91,4,5,6,4,3,3,3,3,3,3,4,3,6,3,4,4,4,4,3,3,3,3,5,5,spva_l,0,1,1
+LONG,5,"Chase Ramsey",28,100,5,5,6,3,4,3,4,4,5,4,4,4,5,4,3,4,3,4,4,4,5,4,4,5,spva_l,0,0,1
+LONG,6,"Noah Mashni",13,85,4,4,5,4,3,4,3,4,3,3,3,2,5,4,4,3,3,4,3,3,3,3,3,5,spva_l,0,0,1

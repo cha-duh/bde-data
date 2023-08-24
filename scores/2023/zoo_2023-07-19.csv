@@ -1,0 +1,8 @@
+division,position,name,relative_score,total_score,hole_1,hole_2,hole_3,hole_4,hole_5,hole_6,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12,hole_13,hole_14,hole_15,hole_16,hole_17,hole_18,hole_19,hole_20,hole_21,hole_22,hole_23,hole_24,course,ctp,lp,attendance
+LONG,1,"Joe Bos",-5,67,3,3,4,2,3,3,2,3,3,3,3,2,3,2,4,2,2,3,2,3,3,3,3,3,spva_l,0,0,0
+LONG,2,"Joshua Owens",-4,68,2,3,3,2,4,3,2,3,3,2,4,2,4,3,3,2,2,3,2,3,3,3,5,2,spva_l,1,0,1
+LONG,3,"Noah Mashni",7,79,3,3,4,3,4,3,2,4,4,3,4,2,3,4,5,2,2,4,3,4,3,3,3,4,spva_l,0,0,0
+SHORT,1,"Kevin Richmond",-7,65,4,3,2,2,3,2,2,3,3,3,2,3,3,2,3,3,2,2,2,3,3,4,3,3,spva_s,1,0,1
+SHORT,2,"Kat Owens",-2,70,3,4,2,4,3,2,3,2,2,2,2,3,4,4,3,5,3,2,2,4,2,2,3,4,spva_s,0,1,1
+SHORT,3,"Isaac Richmond",4,76,4,5,3,3,3,3,2,4,2,3,3,3,4,4,4,2,3,3,2,3,2,3,4,4,spva_s,0,0,1
+SHORT,4,"Chase Ramsey",10,82,3,4,3,4,3,3,3,3,3,3,3,4,3,3,3,3,3,4,3,4,4,4,4,5,spva_s,0,0,1

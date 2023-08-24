@@ -1,0 +1,9 @@
+division,position,name,relative_score,total_score,hole_1,hole_2,hole_3,hole_4,hole_5,hole_6,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12,hole_13,hole_14,hole_15,hole_16,hole_17,hole_18,course,ctp,lp,attendance
+SHORT,1,"Kevin Richmond",-5,49,5,3,2,2,2,3,2,3,3,2,3,3,3,3,3,2,2,3,vera_s,1,0,1
+LONG,2,"Joshua Owens",-3,51,3,4,2,2,4,4,2,2,3,3,3,4,2,2,3,3,2,3,vera_l,1,1,1
+SHORT,3,"Kyle P-H",2,56,5,3,3,3,3,3,3,2,2,3,3,4,3,3,2,4,4,3,vera_s,0,0,1
+SHORT,4,"Chase Ramsey",9,63,4,5,2,4,2,4,3,3,4,4,4,5,4,2,3,3,3,4,vera_s,0,0,1
+SHORT,4,"Isaac Richmond",9,63,5,5,4,4,3,2,4,2,3,3,3,4,3,4,2,2,5,5,vera_s,0,0,1
+SHORT,6,"Kat Owens",10,64,3,4,3,4,2,3,3,3,4,3,3,5,5,5,4,4,3,3,vera_s,0,1,1
+SHORT,0,"Noah Mashni",5,59,5,4,3,2,4,2,2,3,4,4,3,5,3,3,3,3,3,3,vera_s,0,0,0
+LONG,0,"Joe Bos",6,62,4,4,2,5,3,3,3,4,4,3,4,4,2,3,3,4,4,3,vera_l,0,0,0

@@ -1,8 +1,8 @@
-division,position,name,relative_score,total_score,payout,hole_1,hole_2,hole_3,hole_4,hole_5,hole_6,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12,hole_13,hole_14,hole_15,hole_16,hole_17,hole_18
-LONG,1,Joe Bos,8,62,,2,3,3,5,5,3,4,3,3,4,4,3,3,4,4,2,3,4
-LONG,1,Joshua Owens,8,62,,4,2,3,4,4,2,3,4,4,4,3,4,3,5,4,2,4,3
-LONG,1,Kyle P-H,8,62,,3,3,2,4,5,3,5,3,4,4,4,3,3,3,3,3,3,4
-LONG,4,Noah Mashni,15,69,,4,3,4,4,4,3,4,3,5,4,3,4,5,3,4,4,5,3
-SHORT,1,Kevin Richmond,-2,52,,3,3,2,3,3,3,4,3,3,3,3,3,3,3,2,3,3,2
-SHORT,2,Kat Owens,3,57,,2,3,4,4,3,2,4,2,3,3,4,5,3,3,4,2,3,3
-SHORT,3,Isaac Richmond,16,70,,3,4,3,5,4,3,3,4,4,5,5,4,4,4,3,2,4,6
+division,position,name,relative_score,total_score,hole_1,hole_2,hole_3,hole_4,hole_5,hole_6,hole_7,hole_8,hole_9,hole_10,hole_11,hole_12,hole_13,hole_14,hole_15,hole_16,hole_17,hole_18,course,ctp,lp,attendance
+LONG,1,"Joe Bos",8,62,2,3,3,5,5,3,4,3,3,4,4,3,3,4,4,2,3,4,shmo_l,0,0,1
+LONG,1,"Joshua Owens",8,62,4,2,3,4,4,2,3,4,4,4,3,4,3,5,4,2,4,3,shmo_l,0,0,1
+LONG,1,"Kyle P-H",8,62,3,3,2,4,5,3,5,3,4,4,4,3,3,3,3,3,3,4,shmo_l,0,0,1
+LONG,4,"Noah Mashni",15,69,4,3,4,4,4,3,4,3,5,4,3,4,5,3,4,4,5,3,shmo_l,0,0,1
+SHORT,1,"Kevin Richmond",-2,52,3,3,2,3,3,3,4,3,3,3,3,3,3,3,2,3,3,2,shmo_s,0,0,1
+SHORT,2,"Kat Owens",3,57,2,3,4,4,3,2,4,2,3,3,4,5,3,3,4,2,3,3,shmo_s,0,0,1
+SHORT,3,"Isaac Richmond",16,70,3,4,3,5,4,3,3,4,4,5,5,4,4,4,3,2,4,6,shmo_s,0,0,1
